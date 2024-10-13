@@ -1,4 +1,4 @@
-# React
+# Fetch
 
 Repository to record any classroom code for fetch in JavaScript.
 
